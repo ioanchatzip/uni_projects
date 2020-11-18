@@ -14,4 +14,5 @@ project in it.
 
 
 --- About... ---
-"Abacus – App Development" is a group of students of the ECE department of Democritus University of Thrace.
+The app was made by a group of students of the ECE department of Democritus University of Thrace 
+as a project to the course (Human – Computer Interaction).

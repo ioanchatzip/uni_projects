@@ -15,4 +15,4 @@ project in it.
 
 --- About... ---
 The app was made by a group of students of the ECE department of Democritus University of Thrace 
-as a project to the course (Human – Computer Interaction).
+as a project to the course "Human – Computer Interaction".

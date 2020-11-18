@@ -1,2 +1,2 @@
 # uni_projects
-Here is my university software projects.
+Here are my university software projects.

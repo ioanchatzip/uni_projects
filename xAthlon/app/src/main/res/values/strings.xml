@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">xAthlon</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_exercises__neck">Exercises_Neck</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_exercises__arms">Exercises_Arms</string>
+    <string name="title_activity_iu">iu</string>
+    <string name="arms_ex1">Με το χέρι πίσω από τον αυχαίνα, τραβήξτε με το αντίθετο χέρι τον αγκώνα για 12 δευτερόλεπτα. Έτσι γυμνάζετε τον τρικέφαλο μυ.</string>
+    <string name="arms_ex2">Με ανοιχτά και τα δύο χέρια εκτελέστε περιφορές δεξιόστοφα και αριστερόστροφα. Έτσι γυμνάζετε τον δελτοειδή μυ.</string>
+    <string name="back_ex1">Ξαπλωμένοι ανάσκελα σε ύπτια θέση με λυγισμένα τα γόνατα και τα χέρια παράλληλα δίπλα στο σώμα πραγματοποιήστε άρση της λεκάνης και μέινετε για 10 με 15 δευτερόλεπτα. Έπειτα επιστρέψτε στην αρχική σας θέση με τη λεκάνη στο έδαφος.</string>
+    <string name="back_ex2">Μπρούμητα, ακουμπήστε τους αγκώνες στο άνοιγμα των ώμων και μείνετε για 15 δευτερόλεπτα.</string>
+    <string name="legs_ex1">Με τα χέρια στην πρόταση και την πλάτη ίσια εκτελέστε ημικαθίσματα μέχρι το ύψος των γονάτων. Έτσι γυμνάζετε τα γόνατα και τους τετρακέφαλους μυες.</string>
+    <string name="legs_ex2">Όρθιοι σηκώστε το σώμα σας αργά με τις μύτες των ποδιών σας. Έτσι γυμνάζετε το γαστροκνήμιο μυ.</string>
+    <string name="neck_ex1">Με ίσια την πλάτη εκτελέστε αργά κάμψεις του κεφαλιού δεξιά και αριστερά μέχρι το σημείο που δεν προκαλείται κάποιου είδους δυσφορία ή πόνος και μείνετε για 12 δευτερόλεπτα.</string>
+    <string name="neck_ex2">Κοιτώντας κάτω πιέζετε με σταυρωμένα τα δάκτυλα των χεριών το πίσω μέρος του κεφαλιού κρατώντας κόντρα με το κεφάλι για 12 δευτερόλεπτα. Όμοια κοιτώντας ψηλά σπρώχνετε με το κεφάλι και κρατήστε κόντρα με τα χέρια.</string>
+
+
+</resources>
+
+

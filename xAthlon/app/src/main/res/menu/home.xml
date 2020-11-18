@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vergth.chi_menu_layout.MainActivity">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:orderInCategory="1"
+        android:title="Αρχική Οθόνη"
+        app:showAsAction="always" />
+
+</menu>

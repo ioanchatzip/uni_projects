@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Exercises"
+    android:background="@drawable/background_image"
+    android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="20dp"
+            android:text="Ασκήσεις"
+            android:textSize="22dp" />
+
+        <Button
+            android:id="@+id/button10"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_width="164dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="144dp"
+            android:layout_marginTop="100dp"
+            android:text="ΑΥΧΕΝΑΣ"
+            android:onClick="startExercises_Neck"
+            android:textSize="22dp"/>
+
+        <Button
+            android:id="@+id/button11"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_width="164dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="144dp"
+            android:layout_marginTop="200dp"
+            android:text="ΧΕΡΙΑ"
+            android:onClick="startExercises_Arms"
+            android:textSize="22dp" />
+
+        <Button
+            android:id="@+id/button12"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_width="164dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="144dp"
+            android:layout_marginTop="300dp"
+            android:text="ΜΕΣΗ"
+            android:onClick="startExercises_Back"
+            android:textSize="22dp"/>
+
+        <Button
+            android:id="@+id/button13"
+            style="@android:style/Widget.Button.Inset"
+            android:layout_width="164dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="144dp"
+            android:layout_marginTop="400dp"
+            android:text="ΠΟΔΙΑ"
+            android:onClick="startExercises_Legs"
+            android:textSize="22dp"/>
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="100dp"
+            android:backgroundTint="@android:color/transparent"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/neck_icon"
+            android:onClick="startExercises_Neck"
+            android:textSize="24dp"/>
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="200dp"
+            android:backgroundTint="@android:color/transparent"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/arm_icon"
+            android:onClick="startExercises_Arms"
+            android:textSize="24dp"/>
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="300dp"
+            android:backgroundTint="@android:color/transparent"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/back_icon"
+            android:onClick="startExercises_Back"
+            android:textSize="24dp"/>
+
+        <ImageButton
+            android:id="@+id/imageButton7"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="400dp"
+            android:backgroundTint="@android:color/transparent"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/leg_icon"
+            android:onClick="startExercises_Legs"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
